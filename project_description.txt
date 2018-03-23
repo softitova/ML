@@ -1,0 +1,6 @@
+
+churn.all.csv - modified data set.
+
+exponea.ipynb - file with the model, its description, results and conclusions.
+
+exponea.html - obtained from the solution file. You can look at the model and the results without setting dependencies, calculating and running model.
